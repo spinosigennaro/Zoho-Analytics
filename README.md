@@ -14,4 +14,4 @@ All graphs are linked and can be filtered to view more specific data, such as th
 
 #### Activation Tab.
 
-In the activation tab you will find the percentage of customer activation
+In the activation tab you will find the percentage of customer activation. In other words, the percentage of customer that are activated based on the total number of clients
