@@ -4,6 +4,6 @@
 ##### https://analytics.zoho.com/open-view/2495849000000202702
 The dashboard presented is an example of a general sales report. *The data in the reports was modified to protect the confidentiality of the company.*
 
-####Tabs
+#### Tabs
 >Sales
 In the Sales tab
